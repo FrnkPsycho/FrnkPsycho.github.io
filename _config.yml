@@ -45,6 +45,7 @@ author:
     Bilibili : 冷疯Kumo
 
 theme: jekyll-theme-hydejack
+remote-theme: qwtel/hydejack
 
 plugins:
   - jekyll-feed
