@@ -3,4 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 ---
+
+# 什么都不写的博客
+
+哈哈哈哈哈哈哈哈嗝
