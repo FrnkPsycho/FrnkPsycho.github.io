@@ -18,6 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+defaults:
+  - scope:
+      type: posts
+    values:
+      comments: true
+      
+#paginate:      5
+#paginate_path: '/page-:num/'
 title: FrnkPsycho's Blog
 email: frnkpsycho@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -26,10 +34,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://frnkpsycho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: frnk_psycho
 github_username:  frnkpsycho
+disqus: frnkpsycho
+#logo: ./assets/img/frnkpsycho.jpg
+copyright:  © 2020. All rights reserved.
 author:
   name: FrnkPsycho
   email: frnkpsycho@gmail.com
-  picture: ./custom-assets/img/frnkpsycho.jpg
+  picture: 
+    path: ./assets/img/frnkpsycho.jpg
+    srcset: 
+      1x: ./assets/img/frnkpsycho.jpg
+      2x: ./assets/img/frnkpsycho@2x.jpg
   social:
     Twitter: frnk_psycho
     Github: frnkpsycho
@@ -45,12 +60,14 @@ author:
     Bilibili : 冷疯Kumo
 
 remote_theme: qwtel/hydejack
+#theme: jekyll-theme-hydejack
 
 plugins:
   - jekyll-feed
   - jekyll-avatar
+  - jekyll-paginate
   
-accent_image: ./custom-assets/img/custom-sidebar-bg.jpg
+accent_image: ./assets/img/custom-sidebar-bg.jpg
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -70,4 +87,3 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-    - ./_site/assets/icomoon

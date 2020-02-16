@@ -1,11 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-title: Home
+layout: list
+title: My Blog
 ---
-
-# 什么都不写的博客
-
-哈哈哈哈哈哈哈哈嗝
+#记录自己折腾的心得

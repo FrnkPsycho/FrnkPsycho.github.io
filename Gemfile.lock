@@ -250,6 +250,7 @@ DEPENDENCIES
   github-pages
   jekyll-avatar
   jekyll-feed (~> 0.12)
+  jekyll-paginate
   jekyll-theme-hydejack
   jekyll-watch
   minima (~> 2.5)
