@@ -26,11 +26,19 @@ defaults:
 
 collections:
   featured_categories:
-    permalink:         /自建博客记录/
+    permalink:         /:name/
     output:            true
-    
-#paginate:      5
-#paginate_path: '/page-:num/'
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true
+
+menu:
+  - title: 实用文章
+    url:   /useful/
+  - title: 博客日记
+    url:   /diary/
+paginate:      5
+paginate_path: '/page-:num/'
 title: FrnkPsycho's Blog
 email: frnkpsycho@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"

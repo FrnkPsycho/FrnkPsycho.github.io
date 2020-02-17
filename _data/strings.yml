@@ -1,0 +1,6 @@
+category_start:        '分类: '
+tag_start:             '标签: '
+
+date_formats:
+  post:                '%Y.%m.%d'
+  related_post:        '%Y.%m.%d'
