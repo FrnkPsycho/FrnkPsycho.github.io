@@ -26,7 +26,7 @@ defaults:
 
 collections:
   featured_categories:
-    permalink:         /自建博客学习/
+    permalink:         /自建博客记录/
     output:            true
     
 #paginate:      5
@@ -56,11 +56,15 @@ author:
     Steam: 76561198376987259
     Bilibili: 1285753
   about: |
-    浮游于各种文化的表面，挣扎得想要深入。成天幻想的智障一枚 
+    **浮游于各种文化的表面，挣扎得想要深入。成天幻想的智障一枚。**
     
-    steam : calmpsycho 
+    目前在读高二，网上冲浪儿，对软件工程较感兴趣，目前在学习前端知识，
     
-    github : frnkpsycho
+    学习目标：Java(script),Python
+    
+    Steam : calmpsycho 
+    
+    Github : frnkpsycho
     
     Bilibili : 冷疯Kumo
 
