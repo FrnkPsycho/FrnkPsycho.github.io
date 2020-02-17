@@ -23,7 +23,12 @@ defaults:
       type: posts
     values:
       comments: true
-      
+
+collections:
+  featured_categories:
+    permalink:         /自建博客学习/
+    output:            true
+    
 #paginate:      5
 #paginate_path: '/page-:num/'
 title: FrnkPsycho's Blog
@@ -61,6 +66,8 @@ author:
 
 remote_theme: qwtel/hydejack
 #theme: jekyll-theme-hydejack
+live2d:
+  enable: true
 
 plugins:
   - jekyll-feed
