@@ -1,8 +1,9 @@
+<!-- 添加看板娘 -->
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
 <script src="/assets/live2d-widget/autoload.js"></script>
 
-<!-- 为博客底部添加音乐组件 -->
+<!-- 添加音乐组件 -->
 <div id="player"  class="aplayer"></div>
 <link href="/assets/aplayer-custom/APlayer.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
@@ -17,7 +18,7 @@
 const ap = new APlayer({
     container: document.getElementById('player'),
     fixed: true,
-	autoplay: true,
+	autoplay: false,
     audio: [
         {
             name: 'Alpha',
