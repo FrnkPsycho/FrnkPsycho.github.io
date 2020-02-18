@@ -37,14 +37,17 @@ menu:
     url:   /useful/
   - title: 博客日记
     url:   /diary/
-paginate:      5
-paginate_path: '/page-:num/'
+
+#paginate:      5
+#paginate_path: '/page-:num/'
+
 title: FrnkPsycho's Blog
 email: frnkpsycho@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  浮游于各种文化的表面
+  浮游于各种文化的表面。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://frnkpsycho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://frnkpsycho.github.io"
+
 twitter_username: frnk_psycho
 github_username:  frnkpsycho
 disqus: frnkpsycho
@@ -66,9 +69,9 @@ author:
   about: |
     **浮游于各种文化的表面，挣扎得想要深入。成天幻想的智障一枚。**
     
-    目前在读高二，网上冲浪儿，对软件工程较感兴趣，目前在学习前端知识，
+    目前在读高二，网上冲浪儿，对软件工程和建模学习较感兴趣。
     
-    学习目标：Java(script),Python
+    学习目标：Java(script),Python,blender
     
     Steam : calmpsycho 
     
@@ -78,8 +81,6 @@ author:
 
 remote_theme: qwtel/hydejack
 #theme: jekyll-theme-hydejack
-live2d:
-  enable: true
 
 plugins:
   - jekyll-feed

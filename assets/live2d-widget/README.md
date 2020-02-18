@@ -1,4 +1,4 @@
-# Live2D Widget
+# 看板娘live2d-widget
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
