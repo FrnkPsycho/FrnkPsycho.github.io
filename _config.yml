@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -33,6 +33,8 @@ collections:
     output:            true
 
 menu:
+  - title: 每周音乐
+  - url:   /music/
   - title: 实用文章
     url:   /useful/
   - title: 博客日记
@@ -69,15 +71,17 @@ author:
   about: |
     **浮游于各种文化的表面，挣扎得想要深入。成天幻想的智障一枚。**
     
-    目前在读高二，网上冲浪儿，对软件工程和建模学习较感兴趣。
+    目前在读高二，网络小透明，儒雅随和，不爱与别人争吵。
+    
+    目前对软件工程、建模学习和绘画较感兴趣（三分钟热度。
     
     学习目标：Java(script),Python,blender
     
-    Steam : calmpsycho 
+    Github : frnkpsycho 
     
-    Github : frnkpsycho
-    
-    Bilibili : 冷疯Kumo
+    Steam : calmpsycho （平时不常玩游戏）
+        
+    Bilibili : 冷疯Kumo （主要搬一搬音乐类型的视频）
 
 remote_theme: qwtel/hydejack
 #theme: jekyll-theme-hydejack
