@@ -34,7 +34,7 @@ collections:
 
 menu:
   - title: 每周音乐
-  - url:   /music/
+    url:   /music/
   - title: 实用文章
     url:   /useful/
   - title: 博客日记
