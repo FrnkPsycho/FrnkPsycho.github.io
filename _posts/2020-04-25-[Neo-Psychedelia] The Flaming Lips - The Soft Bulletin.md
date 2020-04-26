@@ -14,7 +14,7 @@ tags: Neo-Psychedelia
 
 ​		第一次听The Flaming Lips是他们2002年的专辑 ***Yoshimi Battles the Pink Robots***。讲真，我被那张专辑惊讶到了，异想天开的名字，颇有动漫色彩的封面，轻快的曲风下蕴含着的忧郁......当然我可能会在未来再推荐这张专辑，但这次的主角并不是它，而是这个奇怪乐队的上一张在当时与众不同的专辑 ***The Soft Bulletin***。
 
-![](C:\SSDGames\A学习\FrnkPsycho.github.io\_posts\2020-04-25-[Neo-Psychedelia] The Flaming Lips - The Soft Bulletin\810ZEQfvXAL._SX522_.jpg)
+![](\_posts\2020-04-25-[Neo-Psychedelia] The Flaming Lips - The Soft Bulletin\810ZEQfvXAL._SX522_.jpg)
 Artwork
 {:.figure}
 
