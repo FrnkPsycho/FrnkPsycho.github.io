@@ -33,7 +33,7 @@ collections:
     output:            true
 
 menu:
-  - title: 每周音乐
+  - title: 音乐记录
     url:   /music/
   - title: 实用文章
     url:   /useful/
