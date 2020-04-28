@@ -8,9 +8,9 @@ tags: Neo-Psychedelia
 
 Work In Progress.
 
-#  「美妙旋律」下的末世反战主题
+#  「美妙旋律」下的末世反战内涵
 
-(第一次写推荐，借鉴了许多，文笔有些幼稚)
+(第一次写评论，借鉴了许多，文笔有些幼稚)
 
 　　第一次听The Flaming Lips是他们2002年的专辑 ***Yoshimi Battles the Pink Robots***。讲真，我被那张专辑惊讶到了，异想天开的名字，颇有动漫色彩的封面，轻快的曲风下蕴含着的忧郁......当然我可能会在未来再说说这张专辑，但这次的主角并不是它，而是这个奇怪乐队的上一张专辑 ***The Soft Bulletin***。
 
@@ -25,7 +25,7 @@ The Soft Bulletin
 
 （曲目表以CD版为准）
 
-1. Race for the Prize (Remix)　5/5
+1. Race for the Prize (Remix)　**5 / 5**
 
 
 　　I'm speechless. 当我第一次听到这首歌，抑或是任何时候听到这首歌，都会浑身不由自主地起鸡皮疙瘩......这是我这么久以来第一次听到能让我心中莫名地感动的歌曲。开头由合成器作为Lead，如泣如诉的旋律将听众深深吸引住。背景里的钢琴和声，失真镲声架起的音墙，为这首曲子更加凄凉色彩。
@@ -44,4 +44,4 @@ The Soft Bulletin
 13. Race for the Prize　**5 / 5**
 14. Waitin' for a Superman (Remix)　**5 / 5**
 
-Average:  ***4.14/5***     **Amazing**
+Average:  ***4.46 / 5***     **Amazing**

@@ -33,10 +33,12 @@ collections:
     output:            true
 
 menu:
-  - title: 音乐记录
-    url:   /music/
+  - title: 小众推荐
+    url:   /treasure/
   - title: 实用文章
     url:   /useful/
+  - title: 音乐记录
+    url:   /music/
   - title: 博客日记
     url:   /diary/
 

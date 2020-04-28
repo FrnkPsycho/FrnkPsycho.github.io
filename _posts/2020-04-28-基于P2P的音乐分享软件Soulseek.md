@@ -2,13 +2,16 @@
 layout: post
 title:  "基于P2P的音乐分享软件Soulseek"
 date:   2020-04-28 15:00:00 +0800
-categories: [diary]
+categories: [treasure]
+tags: Music
 ---
 
-## 目录
+# 目录
 {:.no_toc}
 0. 
 {:toc}
+
+------
 
 ## 介绍
 
@@ -28,6 +31,8 @@ categories: [diary]
 
 　　废话不多说，下面介绍一下下载和一些使用方法。
 
+------
+
 ## 下载
 
 官网：http://www.slsknet.org/news/node/1 （需科学上网）
@@ -38,5 +43,5 @@ categories: [diary]
 自行选择系统版本（无移动端）
 {:.figure}
 
-**与一般程序无异的安装方法，这里不再赘述。**
+**安装方法与一般程序无异，这里不再赘述。**
 
