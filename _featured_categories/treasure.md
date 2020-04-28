@@ -5,6 +5,5 @@ slug:   treasure
 menu:   true
 ---
 
-
-
-# 分享在互联网角落遇到的宝藏
+分享在互联网角落遇到的宝藏
+{:.lead}
