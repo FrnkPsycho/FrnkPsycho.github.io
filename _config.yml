@@ -37,8 +37,6 @@ menu:
     url:   /treasure/
   - title: 实用文章
     url:   /useful/
-#  - title: 音乐记录
-#    url:   /music/
   - title: 博客日记
     url:   /diary/
   - title: 音乐网盘
@@ -86,13 +84,16 @@ author:
         
     Bilibili : 冷疯Kumo （主要搬一搬音乐类型的视频）
 
-remote_theme: qwtel/hydejack
+remote_theme: hydecorp/hydejack@v9.0.4
 #theme: jekyll-theme-hydejack
+
+no_break_layout: true
 
 plugins:
   - jekyll-feed
   - jekyll-avatar
   - jekyll-paginate
+  - jekyll-include-cache
   
 accent_image: ./assets/img/custom-sidebar-bg.jpg
 # Exclude from processing.
@@ -114,3 +115,6 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#  - title: 音乐记录
+#    url:   /music/
