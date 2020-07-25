@@ -37,11 +37,12 @@ menu:
     url:   /treasure/
   - title: 实用文章
     url:   /useful/
-  - title: 音乐记录
-    url:   /music/
+#  - title: 音乐记录
+#    url:   /music/
   - title: 博客日记
     url:   /diary/
-
+  - title: 音乐网盘
+    url:   http://od.frnks.top/
 #paginate:      5
 #paginate_path: '/page-:num/'
 
@@ -73,11 +74,11 @@ author:
   about: |
     **浮游于各种文化的表面，挣扎得想要深入。成天幻想的智障一枚。**
     
-    目前在读高二，网络小透明，儒雅随和，不爱与别人争吵。
+    目前就读高三，网络小透明，儒雅随和，不爱与别人争吵（吵不过）。
     
-    目前对软件工程、建模学习和绘画较感兴趣（三分钟热度。
+    目前对软件工程、建模学习、绘画和音乐感兴趣（三分钟热度。
     
-    学习目标：Java(script),Python,blender
+    学习目标：Java(script),Python,Photoshop,Blender,吉他
     
     Github : frnkpsycho 
     
