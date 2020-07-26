@@ -2,7 +2,12 @@
 <!-- script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
 <！-- script src="/assets/live2d-widget/autoload.js"></script>
-<!-- 添加音乐组件 -->
+<script type="text/javascript">
+        live2d_settings['modelId'] = 6;
+        live2d_settings['modelTexturesId'] = 4;
+</script>
+
+<!-- 添加返回顶部按钮 -->
 <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <div id="back-top">
@@ -14,7 +19,7 @@
 $("#back-top").hide();
 $(document).ready(function () {
   $(window).scroll(function () {
-    if ($(this).scrollTop() > 200) {
+    if ($(this).scrollTop() > 800) {
       $('#back-top').fadeIn();
     } else {
       $('#back-top').fadeOut();
@@ -30,15 +35,11 @@ $(document).ready(function () {
 </script>
 <link href="/assets/back-top/back-top.css" rel="stylesheet">
 
+<!-- 添加音乐播放器 -->
 <div id="player"  class="aplayer"></div>
 <link href="/assets/aplayer-custom/APlayer.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script> 
-
-<script type="text/javascript">
-        live2d_settings['modelId'] = 6;
-        live2d_settings['modelTexturesId'] = 4;
-    </script>
 
 <script type="text/javascript">
 const ap = new APlayer({

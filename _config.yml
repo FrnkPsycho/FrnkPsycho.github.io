@@ -40,7 +40,7 @@ menu:
   - title: 博客日记
     url:   /diary/
   - title: 音乐网盘
-    url:   http://od.frnks.top/
+    url:   https://od.frnks.top/
 #paginate:      5
 #paginate_path: '/page-:num/'
 
@@ -60,10 +60,10 @@ author:
   name: FrnkPsycho
   email: frnkpsycho@gmail.com
   picture: 
-    path: ./assets/img/frnkpsycho.jpg
+    path: ./assets/img/frnkpsycho.webp
     srcset: 
-      1x: ./assets/img/frnkpsycho.jpg
-      2x: ./assets/img/frnkpsycho@2x.jpg
+      1x: ./assets/img/frnkpsycho.webp
+      #2x: ./assets/img/frnkpsycho@2x.jpg
   social:
     Twitter: frnk_psycho
     Github: frnkpsycho
