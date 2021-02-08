@@ -39,8 +39,8 @@ menu:
     url:   /useful/
   - title: 博客日记
     url:   /diary/
-  - title: 音乐网盘
-    url:   https://od.frnks.top/
+#  - title: 音乐网盘
+#    url:   https://od.frnks.top/
 #paginate:      5
 #paginate_path: '/page-:num/'
 
@@ -55,7 +55,7 @@ twitter_username: frnk_psycho
 github_username:  frnkpsycho
 disqus: frnkpsycho
 #logo: ./assets/img/frnkpsycho.jpg
-copyright:  © 2020. Frnk Psycho All rights reserved.
+copyright:  © 2021. Frnk Psycho All rights reserved.
 author:
   name: FrnkPsycho
   email: frnkpsycho@gmail.com
