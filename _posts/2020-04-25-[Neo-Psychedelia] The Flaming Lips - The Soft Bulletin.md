@@ -2,7 +2,7 @@
 layout: post
 title:  "[Neo-Psychedelia] The Flaming Lips - The Soft Bulletin"
 date:   2020-04-25 20:00:00 +0800
-categories: [music]
+categories: [treasure]
 tags: Neo-Psychedelia
 ---
 
